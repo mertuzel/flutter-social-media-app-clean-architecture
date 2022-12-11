@@ -1,0 +1,5 @@
+enum UserAuthenticationStatus {
+  AUTHENTICATED,
+  NOT_AUTHENTICATED,
+  MISSING_USERNAME,
+}

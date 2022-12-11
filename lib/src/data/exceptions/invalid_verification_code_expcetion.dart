@@ -1,0 +1,1 @@
+class InvalidVerificationCodeException implements Exception {}

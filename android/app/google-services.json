@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "578290323517",
+    "project_id": "friend-zone-b6b7a",
+    "storage_bucket": "friend-zone-b6b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578290323517:android:30badb06ba7012e6f6da54",
+        "android_client_info": {
+          "package_name": "com.example.friend_zone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578290323517-9mmpf5pnq68j0k9iud83rh0oeou3tscf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.friend_zone",
+            "certificate_hash": "ced33edbd2f1b20e711ee4a88d03163042ae8cc8"
+          }
+        },
+        {
+          "client_id": "578290323517-f8gel6q02b2i0ptc6vga60n8sfa6b4rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTIE4-qzyT0a-wDYQAhsY68N5pxFrNDE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578290323517-f8gel6q02b2i0ptc6vga60n8sfa6b4rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

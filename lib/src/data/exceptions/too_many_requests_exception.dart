@@ -1,0 +1,1 @@
+class TooManyRequestsException implements Exception {}
